@@ -12,7 +12,7 @@
 
 # 1\. Cuenta en GitHub: me registré en la plataforma para alojar el repositorio remoto.
 
-# 2\. Instalación de Git: descargué Git desde su página oficial y configuré mi nombre y correo con `git config`.
+# 2\. Instalación de Git: descargué Git desde su página oficial y configuré mi nombre y correo con `git config --global`.
 
 # 3\. Creación del repositorio: cree un repositorio nuevo en GitHub.
 
